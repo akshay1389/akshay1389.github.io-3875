@@ -1,0 +1,22 @@
+{
+  "heading": "$ cat about.md",
+  "bio": [
+    "Backend Software Engineer with 5+ years of experience building scalable APIs, microservices, and distributed systems across cloud environments. Strong expertise in Golang, Java, Python, and backend service design, with hands-on experience in AWS, Docker, and CI/CD pipelines.",
+    "Proven ability to improve system performance, reliability, and observability in production environments. Experienced in developing data processing workflows and integrating backend services to support real-world business applications."
+  ],
+  "highlights": [
+    {
+      "label": "Years Experience",
+      "value": "2+"
+    },
+    {
+      "label": "Projects Completed",
+      "value": "1+"
+    },
+    {
+      "label": "Technologies",
+      "value": "44+"
+    }
+  ],
+  "currentFocus": "Backend Software Engineer | Golang | Java | AWS | Microservices"
+}

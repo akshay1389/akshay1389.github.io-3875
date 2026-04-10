@@ -1,0 +1,49 @@
+{
+  "asciiName": [
+    "=========================",
+    "  Akshay Basavalingaiah  ",
+    "========================="
+  ],
+  "name": "Akshay Basavalingaiah",
+  "tagline": "Available for work",
+  "roles": [
+    "Backend Software Engineer | Golang | Java | AWS | Microservices",
+    "Backend Software Engineer",
+    "Software Engineer",
+    "Software Engineer II"
+  ],
+  "bootSequence": [
+    "[OK] Loading kernel modules...",
+    "[OK] Initializing network interfaces...",
+    "[OK] Mounting filesystems...",
+    "[OK] Starting SSH daemon...",
+    "[OK] Loading portfolio data...",
+    "[OK] System ready."
+  ],
+  "techTags": [
+    "Golang",
+    "Java",
+    "Python",
+    "Spring Boot",
+    "FastAPI",
+    "AWS"
+  ],
+  "socialLinks": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/akshay1389",
+      "icon": "github"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:akshayb220194@gmail.com",
+      "icon": "email"
+    }
+  ],
+  "resumeUrl": "",
+  "stats": {
+    "experience": "2+ years",
+    "projects": 1,
+    "commits": "500+"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "heading": "$ cat /var/log/education.log",
+  "entries": [
+    {
+      "institution": "University of Texas at Arlington, TX",
+      "degree": "Master of Science",
+      "field": "Computer Science",
+      "startDate": "2025",
+      "endDate": "",
+      "gpa": "3.90/4.0",
+      "honors": []
+    },
+    {
+      "institution": "Visvesvaraya Technological University, India",
+      "degree": "Bachelor of Engineering",
+      "field": "Electronics & Communication",
+      "startDate": "2017",
+      "endDate": "",
+      "gpa": "3.60/4.0",
+      "honors": []
+    }
+  ],
+  "certifications": []
+}

@@ -1,0 +1,143 @@
+{
+  "heading": "$ find ~/projects -type d -maxdepth 1",
+  "projects": [
+    {
+      "name": "jwt-express-typeorm",
+      "description": "Learning project built with modern web technologies",
+      "technologies": [
+        "TypeScript"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/akshay1389/jwt-express-typeorm",
+      "isNew": false
+    },
+    {
+      "name": "socialecho",
+      "description": "Portfolio project showcasing development capabilities",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "Python",
+        "Shell",
+        "HTML",
+        "Dockerfile"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/akshay1389/socialecho",
+      "isNew": false
+    },
+    {
+      "name": "mern-ecommerce-rishi",
+      "description": "Personal project for exploring modern development practices",
+      "technologies": [
+        "JavaScript",
+        "HTML"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/akshay1389/mern-ecommerce-rishi",
+      "isNew": false
+    },
+    {
+      "name": "time-series-forecasting-python",
+      "description": "Portfolio project showcasing development capabilities",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/akshay1389/time-series-forecasting-python",
+      "isNew": false
+    },
+    {
+      "name": "stockastic",
+      "description": "Comprehensive project exploring software design patterns",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/akshay1389/stockastic",
+      "isNew": false
+    },
+    {
+      "name": "creditcardfrauddetection-mlops",
+      "description": "Interactive application built for continuous learning",
+      "technologies": [
+        "Python",
+        "HTML",
+        "CSS",
+        "Dockerfile"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/akshay1389/creditcardfrauddetection-mlops",
+      "isNew": false
+    },
+    {
+      "name": "email-phishing-detection",
+      "description": "Practice application demonstrating full-stack development skills",
+      "technologies": [
+        "Python"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/akshay1389/email-phishing-detection",
+      "isNew": false
+    },
+    {
+      "name": "ai_soc",
+      "description": "Modern web application demonstrating clean code principles",
+      "technologies": [],
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/akshay1389/ai_soc",
+      "isNew": false
+    },
+    {
+      "name": "IntellijSampleProject",
+      "description": "GitHub repository: IntellijSampleProject",
+      "technologies": [
+        "Java"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/akshay1389/IntellijSampleProject",
+      "isNew": false
+    },
+    {
+      "name": "cs-demo",
+      "description": "GitHub repository: cs-demo",
+      "technologies": [],
+      "stars": 0,
+      "forks": 0,
+      "language": "",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/akshay1389/cs-demo",
+      "isNew": false
+    }
+  ]
+}

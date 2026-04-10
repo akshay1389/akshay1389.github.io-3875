@@ -1,0 +1,12 @@
+{
+  "copyright": "Akshay Basavalingaiah",
+  "year": "2026",
+  "tagline": "Built with vanilla HTML/CSS/JS. No frameworks harmed.",
+  "links": [
+    {
+      "label": "Email",
+      "url": "mailto:akshayb220194@gmail.com",
+      "icon": "email"
+    }
+  ]
+}

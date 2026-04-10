@@ -1,0 +1,82 @@
+{
+  "heading": "$ ps aux --sort=start_time",
+  "positions": [
+    {
+      "pid": "1337",
+      "company": "Brex",
+      "title": "Backend Software Engineer",
+      "location": "",
+      "startDate": "Feb 2024",
+      "endDate": "Present",
+      "status": "RUNNING",
+      "description": "Built and optimized backend APIs for financial workflows, supporting high-volume transactional requests across cloud-based services with strong reliability and low latency. Developed data processing components for transactional systems, improving data consistency and enabling seamless integrations across distributed services handling real-time financial data. Deployed and managed containerized applications using Docker and AWS, ensuring consistent environments across development, staging, and production. Implemented logging, monitoring, and alerting mechanisms, improving system observability and reducing time to detect and resolve production issues. Translated business requirements into scalable backend services, contributing to faster feature delivery and maintainable service architecture. Leveraged automation and AI-assisted development tools to streamline debugging, code analysis, and backend workflows, improving engineering productivity.",
+      "achievements": [
+        "Built and optimized backend APIs for financial workflows, supporting high-volume transactional requests across cloud-based services with strong reliability and low latency.",
+        "Developed data processing components for transactional systems, improving data consistency and enabling seamless integrations across distributed services handling real-time financial data.",
+        "Deployed and managed containerized applications using Docker and AWS, ensuring consistent environments across development, staging, and production.",
+        "Implemented logging, monitoring, and alerting mechanisms, improving system observability and reducing time to detect and resolve production issues.",
+        "Translated business requirements into scalable backend services, contributing to faster feature delivery and maintainable service architecture."
+      ],
+      "technologies": [
+        "Docker",
+        "AWS",
+        "AI-assisted development tools"
+      ]
+    },
+    {
+      "pid": "1237",
+      "company": "Extreme Networks",
+      "title": "Software Engineer",
+      "location": "",
+      "startDate": "Jun 2023",
+      "endDate": "Jan 2024",
+      "status": "STOPPED",
+      "description": "Developed Golang-based monitoring module for cloud orchestration, reducing device configuration time by 50% and enabling real-time telemetry visibility across enterprise network environments managing large-scale infrastructure systems. Automated network provisioning using NETCONF and XML, reducing manual setup time by 30% and improving configuration accuracy across Layer 2 and Layer 3 devices in enterprise networking environments. Built concurrent telemetry pipelines using goroutines, increasing data throughput by 35% and reducing latency in diagnostics workflows supporting real-time monitoring and troubleshooting across distributed backend systems. Created log parsing utilities using regex and buffered processing, reducing investigation time by 25% and improving debugging efficiency for engineering teams working with large-scale system logs. Integrated services into Docker-based CI/CD pipelines, reducing deployment time by 40% and improving release consistency across environments supporting continuous delivery and backend service updates. Replaced repetitive CLI-based configuration with backend automation, reducing operational errors by 20% and improving reliability across network provisioning and infrastructure management workflows.",
+      "achievements": [
+        "Developed Golang-based monitoring module for cloud orchestration, reducing device configuration time by 50% and enabling real-time telemetry visibility across enterprise network environments managing large-scale infrastructure systems.",
+        "Automated network provisioning using NETCONF and XML, reducing manual setup time by 30% and improving configuration accuracy across Layer 2 and Layer 3 devices in enterprise networking environments.",
+        "Built concurrent telemetry pipelines using goroutines, increasing data throughput by 35% and reducing latency in diagnostics workflows supporting real-time monitoring and troubleshooting across distributed backend systems.",
+        "Created log parsing utilities using regex and buffered processing, reducing investigation time by 25% and improving debugging efficiency for engineering teams working with large-scale system logs.",
+        "Integrated services into Docker-based CI/CD pipelines, reducing deployment time by 40% and improving release consistency across environments supporting continuous delivery and backend service updates."
+      ],
+      "technologies": [
+        "Golang",
+        "NETCONF",
+        "XML",
+        "Docker",
+        "CI/CD"
+      ]
+    },
+    {
+      "pid": "1137",
+      "company": "IS Infotech Ltd",
+      "title": "Software Engineer II",
+      "location": "",
+      "startDate": "Apr 2017",
+      "endDate": "Nov 2020",
+      "status": "STOPPED",
+      "description": "Developed Java microservices using Spring Boot, improving system reliability by 20% while supporting secure healthcare workflows, patient data processing, and stable backend operations across high-usage application services. Optimized REST APIs using Redis caching, reducing response time by 40% and improving performance across high-traffic endpoints supporting scheduling, patient management, and core platform features. Implemented JWT and OAuth2 authentication, reducing unauthorized access risks by 30% and improving secure communication across backend services handling sensitive healthcare data. Built asynchronous workflows using RabbitMQ, increasing system throughput by 25% and enabling scalable backend processing across distributed services supporting transaction-heavy healthcare operations. Developed CI/CD pipelines using Maven and Jenkins, reducing release cycle time by 20% and improving deployment consistency across development and production environments. Implemented monitoring using Prometheus and Grafana, reducing downtime by 15% and enabling proactive detection of issues across backend services supporting critical application workloads. Increased test coverage to 90% using JUnit and MockMvc, reducing post-release defects by 15% and improving backend stability across releases and feature updates. Collaborated with Agile teams, improving delivery predictability by 20% through clear requirement understanding and structured backend implementation aligned with product expectations. Mentored junior engineers and conducted code reviews, improving code quality by 15% and maintaining consistent development standards across shared team responsibilities.",
+      "achievements": [
+        "Developed Java microservices using Spring Boot, improving system reliability by 20% while supporting secure healthcare workflows, patient data processing, and stable backend operations across high-usage application services.",
+        "Optimized REST APIs using Redis caching, reducing response time by 40% and improving performance across high-traffic endpoints supporting scheduling, patient management, and core platform features.",
+        "Implemented JWT and OAuth2 authentication, reducing unauthorized access risks by 30% and improving secure communication across backend services handling sensitive healthcare data.",
+        "Built asynchronous workflows using RabbitMQ, increasing system throughput by 25% and enabling scalable backend processing across distributed services supporting transaction-heavy healthcare operations.",
+        "Developed CI/CD pipelines using Maven and Jenkins, reducing release cycle time by 20% and improving deployment consistency across development and production environments."
+      ],
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "Redis",
+        "JWT",
+        "OAuth2",
+        "RabbitMQ",
+        "Maven",
+        "Jenkins",
+        "Prometheus",
+        "Grafana",
+        "JUnit",
+        "MockMvc"
+      ]
+    }
+  ]
+}

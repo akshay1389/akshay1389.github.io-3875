@@ -1,0 +1,74 @@
+{
+  "heading": "$ ls -la skills/",
+  "categories": [
+    {
+      "name": "languages",
+      "permissions": "drwxr-xr-x",
+      "items": [
+        "Golang",
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "name": "frameworks",
+      "permissions": "drwxr-xr-x",
+      "items": [
+        "Spring Boot",
+        "FastAPI"
+      ]
+    },
+    {
+      "name": "tools",
+      "permissions": "drwxr-xr-x",
+      "items": [
+        "AWS",
+        "Docker",
+        "Jenkins",
+        "Git",
+        "MySQL",
+        "Redis",
+        "RabbitMQ",
+        "Prometheus",
+        "Grafana",
+        "JUnit",
+        "MockMvc",
+        "Maven"
+      ]
+    },
+    {
+      "name": "technical",
+      "permissions": "drwxr-xr-x",
+      "items": [
+        "Microservices",
+        "REST API Development",
+        "API Design",
+        "Backend Services",
+        "Service Integration",
+        "Data Processing",
+        "Containerization",
+        "CI/CD",
+        "Caching",
+        "Asynchronous Processing",
+        "Distributed Systems",
+        "TCP/IP",
+        "NETCONF",
+        "XML",
+        "LLM Integration",
+        "NLP-based Processing",
+        "Log Analysis",
+        "Logging",
+        "Alerting",
+        "Observability",
+        "Unit Testing",
+        "Integration Testing",
+        "Concurrency",
+        "System Design",
+        "Performance Optimization",
+        "Scalability",
+        "Fault Tolerance"
+      ]
+    }
+  ],
+  "githubUsername": "akshay1389"
+}
