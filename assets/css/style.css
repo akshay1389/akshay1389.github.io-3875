@@ -777,6 +777,14 @@ main {
   display: none;
 }
 
+.exp-company-logo {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+  border: 2px solid var(--border);
+  box-shadow: 2px 2px 0px 0px rgba(0,0,0,1);
+}
+
 .exp-company {
   font-size: 0.75rem;
   font-weight: 600;

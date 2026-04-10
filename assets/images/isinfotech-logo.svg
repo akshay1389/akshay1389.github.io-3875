@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <rect width="120" height="120" fill="#0284c7" rx="12"/>
+  <text x="60" y="62" text-anchor="middle" font-family="Inter, sans-serif" font-weight="800" font-size="30" fill="white">IS</text>
+  <text x="60" y="88" text-anchor="middle" font-family="Inter, sans-serif" font-weight="600" font-size="16" fill="rgba(255,255,255,0.8)">Infotech</text>
+</svg>

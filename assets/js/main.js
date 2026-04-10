@@ -375,9 +375,14 @@
         }).join('') +
         '</div>';
 
+      var logoHTML = pos.companyLogo
+        ? '<img src="' + esc(pos.companyLogo) + '" alt="' + esc(pos.company) + '" class="exp-company-logo">'
+        : '';
+
       return '<div class="experience-card">' +
         '<div class="exp-header">' +
           '<div class="exp-header-left">' +
+            logoHTML +
             '<span class="exp-company">' + esc(pos.company) + '</span>' +
             (statusLabel ? '<span class="exp-status running">' + statusLabel + '</span>' : '') +
           '</div>' +

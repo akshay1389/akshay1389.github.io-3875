@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <rect width="120" height="120" fill="#6d28d9" rx="12"/>
+  <text x="60" y="68" text-anchor="middle" font-family="Inter, sans-serif" font-weight="800" font-size="22" fill="white">Extreme</text>
+  <text x="60" y="90" text-anchor="middle" font-family="Inter, sans-serif" font-weight="600" font-size="18" fill="rgba(255,255,255,0.8)">Networks</text>
+</svg>
