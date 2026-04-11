@@ -7,7 +7,7 @@
       "companyLogo": "assets/images/brex-logo.png",
       "title": "Backend Software Engineer",
       "location": "San Francisco, CA",
-      "startDate": "Feb 2024",
+      "startDate": "Feb 2025",
       "endDate": "Present",
       "status": "RUNNING",
       "description": "Built and optimized backend APIs for financial workflows, supporting high-volume transactional requests across cloud-based services with strong reliability and low latency. Developed data processing components for transactional systems, improving data consistency and enabling seamless integrations across distributed services handling real-time financial data. Deployed and managed containerized applications using Docker and AWS, ensuring consistent environments across development, staging, and production. Implemented logging, monitoring, and alerting mechanisms, improving system observability and reducing time to detect and resolve production issues. Translated business requirements into scalable backend services, contributing to faster feature delivery and maintainable service architecture. Leveraged automation and AI-assisted development tools to streamline debugging, code analysis, and backend workflows, improving engineering productivity.",
